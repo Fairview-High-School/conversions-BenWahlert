@@ -73,7 +73,7 @@ public class Conversions
             double feet = keyboard.nextDouble();
             keyboard.nextLine();
             double meters = feet/29.574;
-            System.out.println(feet + " ounces is " + meters + " milliliters");
+            System.out.println(feet + " milliliters is " + meters + " ounces");
         }
         if (selection == 7)
         {
